@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../ad/PArticulo/Program.cs">
+    <Files>
+      <File FileName="../../ad/PArticulo/MainWindow.cs" Line="1" Column="1" />
+      <File FileName="../../ad/PArticulo/QueryResult.cs" Line="1" Column="1" />
+      <File FileName="../../ad/PArticulo/Program.cs" Line="16" Column="2" />
+      <File FileName="../../ad/PArticulo/PersisterHelper.cs" Line="1" Column="1" />
+      <File FileName="../../ad/PArticulo/App.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Node name="PArticulo" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="UserInterface" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
